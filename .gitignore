@@ -1,0 +1,10 @@
+/Debug/
+.metadata
+*.class
+.idea
+bin/
+.classpath
+.settings
+*.out
+.vscode
+*.h.gch
